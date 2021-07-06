@@ -1,0 +1,34 @@
+span{
+    color: olivedrab;
+}
+.ten img{
+    border-radius: 2%;  
+}
+.hen{
+    display: flex;
+    margin-left: 50px;
+    margin-right: 50px;
+    
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(yellow, red);
+    width:max-content;
+    border-radius: 3px;
+}
+.nine img{
+    border-radius: 2%;
+}
+.eight{
+    text-align: center;
+    margin-left: 50px;
+    background-image: url(Fang/Frame\ .jpg);
+}
+.link{
+    text-decoration: none;
+    background-image: linear-gradient(blue, white);
+    border-radius: 3%;
+    text-align: center;
+    width: 400px;
+}
+
