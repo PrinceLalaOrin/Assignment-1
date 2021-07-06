@@ -31,4 +31,27 @@ span{
     text-align: center;
     width: 400px;
 }
-
+.seven{
+    text-align: center;
+}
+.six p {
+    text-align: justify;
+}
+.six img{
+    border-radius: 10px;
+}
+.five{
+    box-shadow: 10px 10px 10px grey;
+    width: 30%;
+    margin-left: 3%;
+    margin-right: 3%;
+    padding: 15px;
+    border-radius: 5%;
+}
+.four{
+    text-align: center;
+    background-color: royalblue;
+    }
+.four span{
+    color:khaki;
+}
